@@ -36,7 +36,7 @@
         "mocha": "^2.2.5"
     },
     "dependencies": {
-        "aws-sdk": "^2.3.19",
+        "aws-sdk": "^2.190.0",
         "bluebird": "^3.0.6",
         "dynamodb-localhost": "0.0.5",
         "dynamodb-migrations": "0.0.10",
